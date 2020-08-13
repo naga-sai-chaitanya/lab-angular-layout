@@ -1,0 +1,24 @@
+ul {
+  display: flex;
+  font-weight: bold;
+  flex-direction: row;
+  padding: 1em;
+  list-style-type: none;
+  text-decoration: none;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: orangered;
+}
+
+h2 {
+  background-color: orangered;
+  padding: 1em;
+
+}
+
+h4 {
+  background-color: orangered;
+  padding: 1em;
+}
